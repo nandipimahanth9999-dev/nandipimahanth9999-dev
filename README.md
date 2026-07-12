@@ -54,15 +54,6 @@ Azure Data Factory ingestion pipeline for UN Comtrade petroleum datasets (100+ c
 
 ---
 
-📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nandipimahanth9999-dev&show_icons=true&theme=default&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandipimahanth9999-dev&layout=compact&hide_border=true"/>
-</p>
-
 <p align="center">
   📫 <b>Let's connect:</b> nandipimahanth9999@gmail.com &nbsp;|&nbsp; <a href="https://linkedin.com/in/mahanthn">LinkedIn</a>
 </p>
-
-
